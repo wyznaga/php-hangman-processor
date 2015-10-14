@@ -1,0 +1,24 @@
+<?php
+$words = array(
+"server",
+"internet",
+"computer",
+"javascript",
+"hangman",
+"hyland",
+"software",
+"words",
+"derp",
+"ameliorate",
+"quack",
+"inconceivable",
+"taribithia",
+"disconcerting",
+"hypochondriac",
+"hypodermic",
+"magnanimous",
+"fecklessness",
+"loquacious",
+"winsome"
+);
+?>
